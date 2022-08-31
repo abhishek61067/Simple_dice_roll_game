@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79847006085",
+    "project_id": "dice-roll-a7a46",
+    "storage_bucket": "dice-roll-a7a46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79847006085:android:0b885ba9911d7f224feeec",
+        "android_client_info": {
+          "package_name": "com.example.dice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79847006085-3sdgeq22libiedtv1998r9qosnmfj1pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dice",
+            "certificate_hash": "02fd6062085538700a33a78b13d84016d1e85916"
+          }
+        },
+        {
+          "client_id": "79847006085-qfsq595rganrmmobqcqienhuqgpgr90o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDMDzDdSKSc2IPqgQ95nI5eGhS6do-yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79847006085-qfsq595rganrmmobqcqienhuqgpgr90o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
