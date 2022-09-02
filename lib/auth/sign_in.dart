@@ -70,13 +70,7 @@ class _SignInState extends State<SignIn> {
     return Scaffold(
       body: Container(
         height: double.infinity,
-        width: double.infinity,
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            fit: BoxFit.cover,
-            image: AssetImage('assets/login_bg.jpg'),
-          ),
-        ),
+        width: double.infinity,        
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
@@ -88,15 +82,9 @@ class _SignInState extends State<SignIn> {
                 children: [
                   Text('Sign in to continue'),
                   Text(
-                    'YOMMI',
+                    'DICE ROLL',
                     style:
-                        TextStyle(fontSize: 60, color: Colors.white, shadows: [
-                      BoxShadow(
-                        blurRadius: 5,
-                        color: Colors.amber,
-                        offset: Offset(3, 3),
-                      )
-                    ]),
+                        TextStyle(fontSize: 30, color: Colors.black,),
                   ),
                   SignInButton(
                     Buttons.Apple,
